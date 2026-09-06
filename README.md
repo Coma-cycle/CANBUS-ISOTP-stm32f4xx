@@ -134,3 +134,5 @@ Both files expect the correct ID swap in `board_config.h`.
 ---
 
 Happy CAN bus hacking!
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
